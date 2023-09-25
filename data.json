@@ -1,0 +1,22 @@
+{
+    "amazon": {
+        "email": "aryanmaingi2000@gmail.com",
+        "password": "hGHFt)L2&z9#9N"
+    },
+    "yahoo": {
+        "email": "johnBoogeyman@yahoo.com",
+        "password": "x+N21JMmr%1Gu9W"
+    },
+    "gmail": {
+        "email": "johnboogeyman59@gmail.com",
+        "password": "*JZ!&fD14HXDX)K8"
+    },
+    "pythonanywhere": {
+        "email": "johnboogeyman@gmail.com",
+        "password": "DF4Xd)U1G0N$l"
+    },
+    "docker": {
+        "email": "aryanmaingi2000@gmail.com",
+        "password": "3G$bf2btn&f(zIx#2"
+    }
+}
